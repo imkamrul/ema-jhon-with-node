@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+.logo{
+    height: 50px;
+}
+.nav-link a {
+    color: aliceblue;
+}
+Nav.Link{
+    color: aliceblue;
+}
+.header nav {
+    background-color: black;
+    line-height: 40px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: lightgray;
+}

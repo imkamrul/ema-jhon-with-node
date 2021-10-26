@@ -1,0 +1,36 @@
+.icon-color{
+    color: gold;
+    padding: 0 4px;
+    font-size: 16px;
+}
+.product-shadow{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.product-shadow:hover{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.product-name{
+    font-size: 16px;
+    text-align: center;
+}
+.product-name:hover{
+    color: red;
+    border-bottom:1px solid red ;
+}
+.custom-button{
+    /* border-0 bg-light  */
+    border: 0 ;
+    width: 95%;
+    background-color: rgb(231, 234, 241);
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+.custom-button:hover{
+   
+    background-color: rgb(43, 70, 139);
+    color: rgb(255, 255, 255);
+  
+
+    
+}
